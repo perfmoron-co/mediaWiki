@@ -1,0 +1,1 @@
+jmeter -n -t D:\TestScripts\script.jmx -l D:\TestScripts\scriptresults.jtl
